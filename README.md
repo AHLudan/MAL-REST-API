@@ -8,7 +8,7 @@ This provide a very basic information: name ,score ,scoredby ,genre ,status ,pic
 Set-up: </br>
 1- Get Spring Framework or Eclipse: </br>
 https://spring.io/tools  || https://eclipse.org/downloads/eclipse-packages/</br>
-2- Go to help>Install Mew Software ... > add this URL: </br>
+2- Go to help>Install New Software ... > add this URL: </br>
 http://dist.springsource.com/release/TOOLS/gradle </br>
 3 Select gradle only and click Finish. </br>
 4-Clone or downlowd this repository </br>
