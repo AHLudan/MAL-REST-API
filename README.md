@@ -6,12 +6,15 @@ It allows you to get information about an anime that the orginal <a href="https:
 This provide a very basic information: name ,score ,scoredby ,genre ,status ,pic ,id .  You can navigate the MAL page to get an extra information that you want. 
 
 Set-up: </br>
-1- Get Spring Framework: </br>
-https://spring.io/tools </br>
-2-Clone or downlowd this repository </br>
-3- Go to File>Import>Gradle_Gradle Project>Browse to the repository > Bulid Model > Finish </br>
-4- Go to MALAPIController Class and add the authorization header in sendGet method.</br>
-5- Right click at class Application > Run As > Java Application 
+1- Get Spring Framework or Eclipse: </br>
+https://spring.io/tools  || https://eclipse.org/downloads/eclipse-packages/</br>
+2- Go to help>Install Mew Software ... > add this URL: </br>
+http://dist.springsource.com/release/TOOLS/gradle </br>
+3 Select gradle only and click Finish. </br>
+4-Clone or downlowd this repository </br>
+5- Go to File>Import>Gradle_Gradle Project>Browse to the repository > Bulid Model > Finish </br>
+6- Go to MALAPIController Class and add the authorization header in sendGet method.</br>
+7- Right click at class Application > Run As > Java Application 
     </br> </br>
     
     
